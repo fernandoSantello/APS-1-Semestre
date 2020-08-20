@@ -11,11 +11,11 @@ cabe como dever a todos.
 
 ### Existe uma documentação desse projeto que contém 34 páginas! Se quiser ela, é só enviar mensagem pra mim!
 
-Imagem de parte da tela inicial:
-![Screenshot](img1t.png)
+#### Imagem de parte da tela inicial:
+![Screenshot](img1.png)
 
-Imagem de parte da tela de cadastro:
+#### Imagem de parte da tela de cadastro:
 ![Screenshot](img2.png)
 
-Imagem de parte da tela de trilhas:
+#### Imagem de parte da tela de trilhas:
 ![Screenshot](img3.png)
